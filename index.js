@@ -1,7 +1,7 @@
-function paye_calculate(salary) {
+/*function paye_calculate(salary) {
     var total_tax = 0
     var remaining_salary = salary
-    if(remaining_salary > 24000) {
+if(remaining_salary > 24000) {
         remaining_salary = remaining_salary - 24000
         total_tax = 2400
     } else {
@@ -22,4 +22,4 @@ remaining_salary = remaining_salary - 467667
     console.log("Total Salary: " + salary)
     console.log("Total Tax: " + total_tax)
     console.log("Net Salary: " + (salary - total_tax))
-}
+}*/
